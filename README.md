@@ -1,4 +1,4 @@
-# Lesson4.6
+# console fighting game
 
 ## 📌 Описание
 Этот проект содержит две части:

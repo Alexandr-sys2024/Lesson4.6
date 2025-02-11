@@ -47,7 +47,8 @@ python main.py
 ✅ Простая установка и запуск.
 
 ## 📜 Лицензия
-Проект распространяется по **MIT License**.
+Проект распространяется по лицензии [MIT](LICENSE).
 
-## ✨ Автор
-[Aleksandr-sys2024](https://github.com/Alexandr-sys2024)
+## 🛠 Контакты
+📧 Email: a.shubin2025@gmail.com 
+💻 GitHub: https://github.com/Alexandr-sys2024
